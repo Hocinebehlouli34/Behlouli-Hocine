@@ -1,0 +1,5 @@
+{
+  "name": "Modern BMI Calculator",
+  "description": "A sleek and modern Body Mass Index (BMI) calculator. It allows users to calculate their BMI using either metric or imperial units, providing instant feedback with a visually appealing interface and dynamic result visualization.",
+  "requestFramePermissions": []
+}
